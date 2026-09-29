@@ -1,0 +1,3 @@
+# no requirements needed anymore!
+# i took out the rich library so it runs purely on standard python now. 
+# just do: python main.py
